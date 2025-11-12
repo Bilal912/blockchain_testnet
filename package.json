@@ -16,6 +16,8 @@
     "bitcore-lib-ltc": "^10.10.5",
     "ecpair": "^3.0.0",
     "tiny-secp256k1": "^2.2.4",
-    "tronweb": "^6.1.0"
+    "tronweb": "^6.1.0",
+    "@solana/web3.js": "^1.91.8",
+    "bs58": "^6.0.0"
   }
 }
