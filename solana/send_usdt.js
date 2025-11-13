@@ -7,7 +7,6 @@ const {
 } = require("@solana/web3.js");
 const spl = require("@solana/spl-token");
 const bs58 = require("bs58");
-
 /**
  * Convert different private key formats to Keypair:
  * - JSON array string (e.g. "[1,2,3,...]")
